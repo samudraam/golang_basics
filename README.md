@@ -5,7 +5,7 @@
 | Learning Go         | [Go Tour](https://go.dev/tour/welcome/1)                             |
 | Go Dev Packages     | [Go Packages](https://pkg.go.dev/go.chromium.org/luci/common/data/rand/mathrand) |
 | Online Go Editor    | [Go Playground](https://go.dev/play/)                                |
-| Vibe Coding         | [Vibe Coding] (https://www.youtube.com/watch?v=LCEmiRjPEtQ&t=1865s) |
+| Vibe Coding         | [Vibe Coding](https://www.youtube.com/watch?v=LCEmiRjPEtQ&t=1865s)  |
 ---
 
 ## Common Go Commands
